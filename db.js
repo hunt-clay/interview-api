@@ -1,6 +1,6 @@
 const items = require("./data/items");
 const tags = require("./data/tags");
-const interviews = require("./data/interviews");
+const interviews = require("./data/interviewapp");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 
