@@ -1,1 +1,2 @@
-# interview-api
+# fake-product-api-json-server
+# interviewApi
