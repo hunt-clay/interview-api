@@ -1,10 +1,15 @@
-const interviewApp = require("./data/interview-app");
+const items = require("./data/items");
 const tags = require("./data/tags");
+const interviews = require("./data/interviews");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 
 module.exports = {
-  interviewApp,
+  items,
+  tags,
+  brands,
+  itemTypes,
+  interviews
 }
 
 
